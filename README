@@ -1,0 +1,4 @@
+Note from swombat: the plugin at github.com/seban/validates_as_vat_number was mysteriously taken down, so i've put up this clone of the latest version that I had. Feel free to take it over and revive it if you want to (let me know and I'll switch to your repo).
+
+This module provide method validate_as_vat_number wich can check if string is proper Vat EU Number using
+webservice.
